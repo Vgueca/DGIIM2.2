@@ -1,0 +1,27 @@
+EXAMEN PDOO P3
+
+Esta prueba se realizará utilizando el lenguaje de programación Ruby. 
+
+Añade un fichero examen_p3.rb a tu proyecto. En ese fichero, dentro de un módulo denominado P3, crea una clase llamada ExamenP3 con un método de instancia llamado principal que se ejecute automáticamente al ejecutar el nuevo fichero creado. 
+
+
+
+Crear un nuevo constructor sin parámetros de objetos Damage sin modificar ninguno de los ya implementados. Creará un objeto de este tipo que haga perder entre 2 y 4 armas y 0 potenciadores de escudo. Se elegirá aleatoriamente la cantidad de armas siendo todos los valores posibles equiprobables.
+
+Demuestra el funcionamiento del nuevo constructor en el método del apartado anterior
+
+
+Añade un nuevo tipo de arma nuevo llamado phaser de potencia 7.
+
+En el método que has añadido en el primer apartado, crea un objeto Damage que suponga perder dos armas de cada tipo y muestra el resultado de ajustar este objeto a una estación espacial que tenga:
+
+2 phaser
+
+1 láser
+
+3 cañones de plasma
+
+
+
+
+Nota: no es necesario crear ninguna estación espacial.

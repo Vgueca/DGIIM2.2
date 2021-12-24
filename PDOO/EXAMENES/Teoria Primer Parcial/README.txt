@@ -1,0 +1,1 @@
+El primer parcial tenía dos preguntas, en los PDF están las preguntas que me cayeron amí con las soluciones que puse, y en las imágenes están las preguntas que le cayeron a otro compañero mio. Además adjunto en imagenes los criterios de correción que siguió nuestro profesor (Lastra)
